@@ -5,7 +5,7 @@ import { Volume2, VolumeX, Music } from "lucide-react";
    CONFIGURATION — edit these to personalise
    ══════════════════════════════════════════ */
 const BIRTHDAY_NAME   = "Swathi❤️";
-const BIRTHDAY_DATE = new Date(2000, 7, 2); // Mar 15 2000, 6:30 AM
+const BIRTHDAY_DATE = new Date(2001, 7, 2); // Mar 15 2000, 6:30 AM
 const BIRTHDAY_SENDER = "Ragul";
 
 /* ══════════════════════════════════════════
